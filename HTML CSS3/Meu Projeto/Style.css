@@ -1,0 +1,57 @@
+body {
+    background-image: url(tec.jpg);
+    font-family: cursive;
+    max-width: 900px;
+    margin: auto;
+   }
+
+.profile {
+    border-radius: 50px;
+    border: solid gray
+}
+
+#title {
+color: black;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    color: black;
+}
+
+.post_title{
+    color: black;
+    margin: 0;
+    margin-bottom: 15px
+}
+
+article{
+    background: #fff;
+    padding: 15px;
+    border: solid blue;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+   
+img{
+   margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+
+.list{
+list-style: none;
+    padding-left: 15px
+}
